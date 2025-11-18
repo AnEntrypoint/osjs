@@ -2,6 +2,7 @@ node_modules
 dist
 session-store.db
 .vfs
+vfs
 *.log
 .DS_Store
 .env
