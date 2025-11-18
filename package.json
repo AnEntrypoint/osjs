@@ -22,10 +22,12 @@
     "hyperapp": "^1.2.10"
   },
   "devDependencies": {
+    "@playwright/test": "^1.56.1",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.8.1",
     "html-webpack-plugin": "^5.5.4",
     "mini-css-extract-plugin": "^2.7.6",
+    "playwright": "^1.56.1",
     "sass": "^1.69.5",
     "sass-loader": "^13.3.2",
     "style-loader": "^3.3.3",
