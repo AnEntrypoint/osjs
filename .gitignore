@@ -7,3 +7,5 @@ vfs
 .DS_Store
 .env
 .playwright-mcp
+test-results
+sessions
